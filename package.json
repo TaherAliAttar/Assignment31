@@ -1,0 +1,17 @@
+{
+  "name": "mk-i-love-my-city-handlebars",
+  "version": "1.0.0",
+  "description": "i-love-my-city app with handlebars template",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11"
+  }
+}
